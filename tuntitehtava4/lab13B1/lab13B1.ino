@@ -1,7 +1,5 @@
 #include <Arduino.h>
 #include <U8g2lib.h>
-#include <SPI.h>
-#include <Wire.h>
 
 U8G2_SSD1306_128X32_UNIVISION_F_HW_I2C u8g2(U8G2_R0); 
 int time_sec;
